@@ -1,5 +1,4 @@
 ## RDA
-RDA data access module
 ![Alt text](en_header.png)
 
   The RDA access module enables easy communication with RADWAG terminals and weighing instruments compliant with this protocol (RST Software, HY10, PUE71).
