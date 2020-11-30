@@ -14,7 +14,7 @@ Upon installation, in the Server Localization window, enter the terminal or weig
   
   ![Alt text](example1.png)
   
-In the Request field, enter a request compliant with the RDA protocol.
+In the Request field, enter a request compliant with the RDA protocol (http://filecloud.radwag.com/index.php/s/dTQTH5EpVu73hhY).
   
    ![Alt text](example2.png)
    
