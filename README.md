@@ -2,7 +2,7 @@
 ![Alt text](en_header.png)
 
   The RDA access module enables easy communication with RADWAG terminals and weighing instruments compliant with this protocol (RST Software, HY10, PUE71).
-Data exchange is carried out via WEBSOCKET connection (4101 port) using JSON objects. WEBSOCKET connection and JSON object are available for almost every programming language and their use is a global standard, which allows for their implementation in any technical solution.
+Data exchange is carried out via WEBSOCKET connection (4101 port) using JSON objects. WEBSOCKET connection and JSON objects are available for almost every programming language and their use is a global standard, which allows for their implementation in any technical solution.
 
 ![Alt text](rda_terminals.png)
   
